@@ -119,7 +119,7 @@ TYPES.push({
 
 // ---------- 08 슬라이더형 ----------
 TYPES.push({
-  name: '슬라이더형', en: 'SLIDER', icon: '🎚️', mech: '추정', short: '근삷값 맞히기', isNew: false,
+  name: '슬라이더형', en: 'SLIDER', icon: '🎚️', mech: '추정', short: '근삿값 맞히기', isNew: false,
   q: '탄산음료 1캔에는 각설탕(1개 = 3g)이 약 <b>9개</b> 들어 있어요. 당류는 몇 g일까요? 슬라이더를 맞추세요. (오차 ±3g 허용)',
   tip: {
     when: '정확한 값보다 <b>양감(어림)</b>을 기르고 싶을 때. 숫자가 충격적일수록 기억에 남아요.',
